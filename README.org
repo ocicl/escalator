@@ -1,10 +1,11 @@
 * escalator
 
+Escalator, aka Entity System for Common Lisp (ESCL), is an
+experimental object system intended to make it easy to develop
+high-performance games.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://bitbucket.org/elliottslaughter/escalator   |
-| commit  |   |
-| systems | escalator |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------|
+| source  | git:https://bitbucket.org/elliottslaughter/escalator |
+| commit  | f7c72cb                                              |
+| systems | escalator                                            |
+|---------+------------------------------------------------------|
